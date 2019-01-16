@@ -1083,6 +1083,7 @@
 		3691EB702119111A008C49E1 /* STPCardValidator+Private.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "STPCardValidator+Private.m"; sourceTree = "<group>"; };
 		3691EB73211A4F31008C49E1 /* STPShippingAddressViewControllerTest.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = STPShippingAddressViewControllerTest.m; sourceTree = "<group>"; };
 		36D153B521AE0FDC00567EFE /* da */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = da; path = Localizations/da.lproj/Localizable.strings; sourceTree = "<group>"; };
+		36D153B621AE100F00567EFE /* de-CH */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = "de-CH"; path = "Localizations/de-CH.lproj/Localizable.strings"; sourceTree = "<group>"; };
 		36D153B621AE101F00567EFE /* es-AR */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = "es-AR"; path = "Localizations/es-AR.lproj/Localizable.strings"; sourceTree = "<group>"; };
 		36D153B721AE106D00567EFE /* fr-CA */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = "fr-CA"; path = "Localizations/fr-CA.lproj/Localizable.strings"; sourceTree = "<group>"; };
 		36D153B821AE10E300567EFE /* nn-NO */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = "nn-NO"; path = "Localizations/nn-NO.lproj/Localizable.strings"; sourceTree = "<group>"; };
@@ -2647,6 +2648,7 @@
 				fi,
 				nb,
 				da,
+				"de-CH",
 				"es-AR",
 				"fr-CA",
 				"nn-NO",
@@ -3286,6 +3288,7 @@
 				7E0B1132203572FB00271AD3 /* fi */,
 				ED627D57207EA348007EFC56 /* nb */,
 				36D153B521AE0FDC00567EFE /* da */,
+				36D153B621AE100F00567EFE /* de-CH */,
 				36D153B621AE101F00567EFE /* es-AR */,
 				36D153B721AE106D00567EFE /* fr-CA */,
 				36D153B821AE10E300567EFE /* nn-NO */,
